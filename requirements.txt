@@ -1,0 +1,9 @@
+streamlit==1.31.1
+youtube-transcript-api==0.6.2
+groq==0.4.2
+pytube==15.0.0
+openai-whisper==20231117
+python-dotenv==1.0.0
+gunicorn==21.2.0
+requests==2.31.0
+urllib3==2.1.0 
